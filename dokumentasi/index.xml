@@ -16,7 +16,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://tealinuxos.org/dokumentasi/</guid>
-      <description>Kenalan dengan Tealinux OS Apa itu TealinuxOS? TeaLinuxOS adalah distro Linux turunan Ubuntu yang dikembangkan oleh Dinus Open Source Community (DOSCOM) yang berorientasi pemrograman. Dengan menghadirkan filosofi,
+      <description>Kenalan dengan Tealinux OS Apa itu Tealinuxos? TeaLinuxOS adalah distro Linux turunan Ubuntu yang dikembangkan oleh Dinus Open Source Community (DOSCOM) yang berorientasi pemrograman. Dengan menghadirkan filosofi,
  Nikmatnya sebuah racikan @tealinuxos
  TeaLinuxOS dikembangkan secara terbuka dan bersama-sama untuk menghasilkan distro Linux pemrograman yang dikhususkan untuk dunia pendidikan.
 Nama TeaLinuxOS – Nikmatnya Sebuah Racikan! Kami menggunakan nama distro TeaLinuxOS karena beberapa alasan, yaitu tea yang dalam bahasa Indonesia berarti teh, merupakan minuman khas masyarakat Indonesia yang merakyat dan dapat dikonsumsi semua orang.</description>
@@ -39,7 +39,7 @@ Membuat Bootable ISO TealinuxOS ke Flashdisk Untuk membuat bootable ke flashdisk
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://tealinuxos.org/dokumentasi/migrasi/</guid>
-      <description>Migrating from Windows If you previously only use windows operating system then welcome to the open source world. If you are familiar with linux operating system you can continue to next step. For those of you who are newly migrated, do not give up when facing difficulties, you can ask in doscom group or on TeaLinuxOS fanList the developers and other users will help you. These are some of the most frequently used keywords in windows and can be found in TeaLinuxOS.</description>
+      <description>Bermigrasi dari Windows Jika sebelumnya anda hanya menggunakan sistem operasi windows, maka kami ucapkan selamat datang di dunia open source. Jika anda sudah terbiasa dengan sistem operasi linux, Anda dapat melanjutkan ke langkah berikutnya. Bagi Anda yang baru saja bermigrasi dan mendapatkan kesulitan, Anda dapat bertanya di grup doscom  atau TeaLinuxOS fanList para developer dan pengguna lainnya akan membantu Anda. Berikut beberapa kata kunci yang paling sering digunakan di windows dan dapat ditemukan di TeaLinuxOS.</description>
     </item>
     
     <item>
@@ -48,7 +48,7 @@ Membuat Bootable ISO TealinuxOS ke Flashdisk Untuk membuat bootable ke flashdisk
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://tealinuxos.org/dokumentasi/pengenalan-de/</guid>
-      <description>Pengenalan Dekstop Environment Tampilan lingkungan dekstop TeaLinuxOS Pappermint dengan tema elegan dan simple namun bersahabat dengan pengguna. Beberapa pengenalan tentang lingkungan dekstop di TeaLinuxOS sebagai berikut :
+      <description>Pengenalan Dekstop Environment Tampilan lingkungan dekstop TeaLinuxOS Stevia dengan tema elegan dan simple namun bersahabat dengan pengguna. Beberapa pengenalan tentang lingkungan dekstop di TeaLinuxOS sebagai berikut :
 Panel Pada bagian panel ini terdiri dari icon menu di pojok kiri anda dapat mengkliknya dan menu aplikasi akan muncul. Disisi kiri ada pengaturan workspace swicher, nama user yang berupa tombol aksi (suspend, logout, shutdown dll) , clock (jam), indikator baterai, indikator volume, indikator jaringan, indikator virtual keyboard.</description>
     </item>
     
@@ -58,7 +58,7 @@ Panel Pada bagian panel ini terdiri dari icon menu di pojok kiri anda dapat meng
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://tealinuxos.org/dokumentasi/pengaturan/</guid>
-      <description>Pengubahan Menu → Settings → Settings Manager → Menu Editor Pada menu editor ini anda dapat sepenuhnya dapat mengatur baik hirarkhi menu anda, menambahkan perintah-perintah, mengelompokkan aplikas-aplikasi favorit anda, maupun membuat launcher baru.
+      <description>Pengubahan Menu → Settings → Settings Manager → Menu Editor Pada menu editor ini anda dapat sepenuhnya dapat mengatur baik hirarkhi menu anda, menambahkan perintah-perintah, mengelompokkan aplikasi-aplikasi favorit anda, maupun membuat launcher baru.
 Pengubahan Informasi Personal → Settings → User and Groups User and Gorups ini digunakan untuk mengubah informasi pengguna, diantaranya nama, username, password, jenis user apakan administrator atau user biasa. Pada pengaturan ini juga dapat ditambahkan user baru maupun menghapus user lama.</description>
     </item>
     
@@ -68,7 +68,7 @@ Pengubahan Informasi Personal → Settings → User and Groups User and Gorups i
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://tealinuxos.org/dokumentasi/aplikasi-tea/</guid>
-      <description>Aplikasi Multimedia  Brasero Brasero merupakan sebuah perangkat lunak pemutar file audio dengan ukuran yang terbilang kecil, meski ukuran kecil ia tetap memiliki kualitas suara yang baik dan didukung dengan berbagai jenis format file. Untuk mengetahui lebih lanjut tentang brasero silahkan kunjungi situs resmi brasero di sini.  VLC VLC Media Player merupakan perangkat lunak (software) pemutar beragam berkas (file) multimedia, baik video maupun audio dalam berbagai format, seperti MPEG, DivX, Ogg, dan lain-lain.</description>
+      <description>Aplikasi Multimedia  Brasero merupakan sebuah perangkat lunak pemutar file audio dengan ukuran yang terbilang kecil, meski ukuran kecil ia tetap memiliki kualitas suara yang baik dan didukung dengan berbagai jenis format file. Untuk mengetahui lebih lanjut tentang brasero silahkan kunjungi situs resmi brasero di sini.  VLC Media Player merupakan perangkat lunak (software) pemutar beragam berkas (file) multimedia, baik video maupun audio dalam berbagai format, seperti MPEG, DivX, Ogg, dan lain-lain.</description>
     </item>
     
     <item>
@@ -77,7 +77,7 @@ Pengubahan Informasi Personal → Settings → User and Groups User and Gorups i
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://tealinuxos.org/dokumentasi/koneksi/</guid>
-      <description>Menyambung dan Memutuskan jaringan → Settings → Network Connection atau klik icon NetworkManager yang berada di panel → Edit. Koneksi jaringan di TealinuxOS Pappermint menggunakan network connection untuk mengatur jaringan menggunakan kabel, jaringan wireless, mobile broadband, VPN dan koneksi DSL. Network connection akan menghubungkan komputer anda secara otomatis dengan jaringan, namun jika penyambungan pertama kali biasanya memerlukan informasi keamanan untuk terhubung ke jaringan.
+      <description>Menyambung dan Memutuskan jaringan → Settings → Network Connection atau klik icon NetworkManager yang berada di panel → Edit. Koneksi jaringan di TealinuxOS Stevia menggunakan network connection untuk mengatur jaringan menggunakan kabel, jaringan wireless, mobile broadband, VPN dan koneksi DSL. Network connection akan menghubungkan komputer anda secara otomatis dengan jaringan, namun jika penyambungan pertama kali biasanya memerlukan informasi keamanan untuk terhubung ke jaringan.
 Untuk memutuskan (disconnect) jaringan klik pada icon NetworkManager yang berada di panel lalu klik disconnect.</description>
     </item>
     
