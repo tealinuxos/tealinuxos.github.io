@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kontribusi on TeaLinux OS</title>
+    <link>https://localhost:1314/kontribusi/</link>
+    <description>Recent content in Kontribusi on TeaLinux OS</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 08 May 2019 12:58:57 +0700</lastBuildDate>
+    
+	<atom:link href="https://localhost:1314/kontribusi/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
