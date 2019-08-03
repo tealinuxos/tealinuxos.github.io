@@ -3,101 +3,91 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://tealinuxos.org/dokumentasi/</loc>
+    <loc>http://localhost:1313/dokumentasi/</loc>
   </url>
   
   <url>
-    <loc>https://tealinuxos.org/dokumentasi/</loc>
+    <loc>http://localhost:1313/dokumentasi/</loc>
   </url>
   
   <url>
-    <loc>https://tealinuxos.org/dokumentasi/install/</loc>
+    <loc>http://localhost:1313/dokumentasi/install/</loc>
   </url>
   
   <url>
-    <loc>https://tealinuxos.org/dokumentasi/migrasi/</loc>
+    <loc>http://localhost:1313/dokumentasi/migrasi/</loc>
   </url>
   
   <url>
-    <loc>https://tealinuxos.org/dokumentasi/pengenalan-de/</loc>
+    <loc>http://localhost:1313/dokumentasi/pengenalan-de/</loc>
   </url>
   
   <url>
-    <loc>https://tealinuxos.org/dokumentasi/pengaturan/</loc>
+    <loc>http://localhost:1313/dokumentasi/pengaturan/</loc>
   </url>
   
   <url>
-    <loc>https://tealinuxos.org/dokumentasi/aplikasi-tea/</loc>
+    <loc>http://localhost:1313/dokumentasi/aplikasi-tea/</loc>
   </url>
   
   <url>
-    <loc>https://tealinuxos.org/dokumentasi/koneksi/</loc>
+    <loc>http://localhost:1313/dokumentasi/koneksi/</loc>
   </url>
   
   <url>
-    <loc>https://tealinuxos.org/dokumentasi/print-dan-scan/</loc>
+    <loc>http://localhost:1313/dokumentasi/print-dan-scan/</loc>
   </url>
   
   <url>
-    <loc>https://tealinuxos.org/dokumentasi/mengelola-aplikasi/</loc>
+    <loc>http://localhost:1313/dokumentasi/mengelola-aplikasi/</loc>
   </url>
   
   <url>
-    <loc>https://tealinuxos.org/dokumentasi/menjaga-keamanan/</loc>
+    <loc>http://localhost:1313/dokumentasi/menjaga-keamanan/</loc>
   </url>
   
   <url>
-    <loc>https://tealinuxos.org/dokumentasi/perangkat-keras/</loc>
+    <loc>http://localhost:1313/dokumentasi/perangkat-keras/</loc>
   </url>
   
   <url>
-    <loc>https://tealinuxos.org/dokumentasi/administrasi/</loc>
+    <loc>http://localhost:1313/dokumentasi/administrasi/</loc>
   </url>
   
   <url>
-    <loc>https://tealinuxos.org/dokumentasi/perintah-baris/</loc>
+    <loc>http://localhost:1313/dokumentasi/perintah-baris/</loc>
   </url>
   
   <url>
-    <loc>https://tealinuxos.org/dokumentasi/desktop/</loc>
+    <loc>http://localhost:1313/dokumentasi/desktop/</loc>
   </url>
   
   <url>
-    <loc>https://tealinuxos.org/dokumentasi/app/</loc>
+    <loc>http://localhost:1313/dokumentasi/app/</loc>
   </url>
   
   <url>
-    <loc>https://tealinuxos.org/dokumentasi/seting/</loc>
+    <loc>http://localhost:1313/dokumentasi/seting/</loc>
   </url>
   
   <url>
-    <loc>https://tealinuxos.org/kontribusi/</loc>
-    <lastmod>2019-05-08T12:58:57+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tealinuxos.org/trash/</loc>
-    <lastmod>2019-05-05T20:32:26+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tealinuxos.org/search/index.json</loc>
+    <loc>http://localhost:1313/search/index.json</loc>
     <lastmod>2018-09-04T15:32:54+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tealinuxos.org/</loc>
+    <loc>http://localhost:1313/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2018-09-04T15:32:54+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://tealinuxos.org/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://tealinuxos.org/tags/</loc>
     <priority>0</priority>
   </url>
   
