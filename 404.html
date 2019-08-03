@@ -7,7 +7,7 @@
         "@type" : "BlogPosting",
         "mainEntityOfPage": {
              "@type": "WebPage",
-             "@id": "http://localhost:1313/"
+             "@id": "https://tealinuxos.org/"
         },
         "articleSection" : "",
         "name" : "404 Page not found",
@@ -48,7 +48,7 @@
 
 
 
-<link rel="stylesheet" href="http://localhost:1313/css/bundle.min.37e45e96c5964e9d10e2bb0ffc32e0f9ca869d5a1252b49fa817231ec8906aea6ac0f5459d9fac55e44b357d26aa132da2fd90b8d4c4b327c48df89d3d2992a5.css">
+<link rel="stylesheet" href="https://tealinuxos.org/css/bundle.min.37e45e96c5964e9d10e2bb0ffc32e0f9ca869d5a1252b49fa817231ec8906aea6ac0f5459d9fac55e44b357d26aa132da2fd90b8d4c4b327c48df89d3d2992a5.css">
     </head>
     <body>
         
@@ -77,7 +77,7 @@ let vuesearch = new Vue({
         },
     mounted: function() {
         
-        axios.get('http:\/\/localhost:1313\/search\/index.json')
+        axios.get('https:\/\/tealinuxos.org\/search\/index.json')
         .then(function (response) {
             vuesearch.bdd = response.data.results;
             })
